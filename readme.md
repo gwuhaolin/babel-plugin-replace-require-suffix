@@ -24,3 +24,11 @@ babel config
         ]
 }
 ```
+org code
+```js
+require('./index.scss');
+```
+out code
+```js
+require('./index.css');
+```
