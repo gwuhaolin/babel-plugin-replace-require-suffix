@@ -1,0 +1,11 @@
+{
+  "name": "babel-plugin-replace-require-suffix",
+  "version": "1.0.0",
+  "description": "replace file suffix in require(filepath.suffix)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gwuhaolin",
+  "license": "ISC"
+}
